@@ -1,14 +1,14 @@
 {
-  "name": "frame-master-plugin-seo",
-  "version": "0.1.0",
-  "type": "module",
-  "main": "index.ts",
-  "peerDependencies": {
-    "frame-master": "^3.1.1",
-    "typescript": "^5"
-  },
-  "private": false,
-  "devDependencies": {
-    "@types/bun": "latest"
-  }
+	"name": "frame-master-plugin-seo",
+	"version": "0.1.1",
+	"type": "module",
+	"main": "index.ts",
+	"peerDependencies": {
+		"frame-master": "^3.1.6",
+		"typescript": "^5.9.3"
+	},
+	"private": false,
+	"devDependencies": {
+		"@types/bun": "latest"
+	}
 }
